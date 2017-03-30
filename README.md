@@ -1,0 +1,1 @@
+Passing "the code test" is no easy feat.  It takes practice and preparation.  Back in February I started keeping track of all the small exercises I complete in my efforts to be a better whiteboarder and land my first coding job.  
